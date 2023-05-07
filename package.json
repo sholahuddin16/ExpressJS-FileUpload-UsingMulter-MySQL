@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-mysql-file-upload",
+  "version": "1.0.0",
+  "description": "Node.js upload images to MySQL database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "upload",
+    "image",
+    "mysql"
+  ],
+  "author": "Sholahuddin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "npm": "^9.6.6",
+    "sequelize": "^6.31.0"
+  }
+}
